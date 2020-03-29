@@ -1,0 +1,33 @@
+C:\Users\Олександр\source\repos\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Олександр\source\repos\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\source\repos\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Олександр\source\repos\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Олександр\source\repos\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Олександр\source\repos\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Олександр\source\repos\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\Назар\Desktop\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Назар\Desktop\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Назар\Desktop\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Назар\Desktop\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Назар\Desktop\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Назар\Desktop\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Назар\Desktop\lab4\lab4\obj\Debug\lab4.pdb
+E:\Lerning\Politeh\4kurs\Дискретні моделі\lab4\lab4\bin\Debug\lab4.exe.config
+E:\Lerning\Politeh\4kurs\Дискретні моделі\lab4\lab4\obj\Debug\lab4.exe
+E:\Lerning\Politeh\4kurs\Дискретні моделі\lab4\lab4\obj\Debug\lab4.pdb
+E:\Lerning\Politeh\4kurs\Дискретні моделі\lab4\lab4\bin\Debug\lab4.exe
+E:\Lerning\Politeh\4kurs\Дискретні моделі\lab4\lab4\bin\Debug\lab4.pdb
+E:\Lerning\Politeh\4kurs\Дискретні моделі\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Vasya\Desktop\Лаби\Кривий\lab4-20181006T140947Z-001\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Vasya\Desktop\Лаби\Кривий\lab4-20181006T140947Z-001\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Vasya\Desktop\Лаби\Кривий\lab4-20181006T140947Z-001\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\Vasya\Desktop\Лаби\Кривий\lab4-20181006T140947Z-001\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Vasya\Desktop\Лаби\Кривий\lab4-20181006T140947Z-001\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Vasya\Desktop\Лаби\Кривий\lab4-20181006T140947Z-001\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Komp\Desktop\Кривий\Кривий\коди\lab4-20181006T140947Z-001\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Komp\Desktop\Кривий\Кривий\коди\lab4-20181006T140947Z-001\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Komp\Desktop\Кривий\Кривий\коди\lab4-20181006T140947Z-001\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Komp\Desktop\Кривий\Кривий\коди\lab4-20181006T140947Z-001\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\Komp\Desktop\Кривий\Кривий\коди\lab4-20181006T140947Z-001\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Desktop\Кривий\Кривий\коди\lab4-20181006T140947Z-001\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Komp\Desktop\Кривий\Кривий\коди\lab4-20181006T140947Z-001\lab4\lab4\obj\Debug\lab4.pdb
