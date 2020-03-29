@@ -1,0 +1,31 @@
+c:\users\admin\documents\visual studio 2015\Projects\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.exe
+c:\users\admin\documents\visual studio 2015\Projects\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.exe
+c:\users\admin\documents\visual studio 2015\Projects\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.pdb
+C:\Users\chube\OneDrive\Дискретні моделі\Lab2\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.exe.config
+C:\Users\chube\OneDrive\Дискретні моделі\Lab2\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.exe
+C:\Users\chube\OneDrive\Дискретні моделі\Lab2\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.pdb
+C:\Users\chube\OneDrive\Дискретні моделі\Lab2\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.exe
+C:\Users\chube\OneDrive\Дискретні моделі\Lab2\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.pdb
+C:\Users\chube\OneDrive\Дискретні моделі\Lab2\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.csprojResolveAssemblyReference.cache
+E:\Lerning\Politeh\4kurs\Дискретні моделі\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.exe.config
+E:\Lerning\Politeh\4kurs\Дискретні моделі\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.exe
+E:\Lerning\Politeh\4kurs\Дискретні моделі\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.pdb
+E:\Lerning\Politeh\4kurs\Дискретні моделі\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.exe
+E:\Lerning\Politeh\4kurs\Дискретні моделі\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.pdb
+E:\Lerning\Politeh\4kurs\Дискретні моделі\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.csprojResolveAssemblyReference.cache
+C:\Users\Vasya\Desktop\Лаби\Кривий\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.exe.config
+C:\Users\Vasya\Desktop\Лаби\Кривий\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.exe
+C:\Users\Vasya\Desktop\Лаби\Кривий\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.pdb
+C:\Users\Vasya\Desktop\Лаби\Кривий\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.exe
+C:\Users\Vasya\Desktop\Лаби\Кривий\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.pdb
+C:\Users\Vasya\Desktop\Лаби\Кривий\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.csprojResolveAssemblyReference.cache
+C:\Users\Komp\Desktop\Кривий\Кривий\коди\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.exe.config
+C:\Users\Komp\Desktop\Кривий\Кривий\коди\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.exe
+C:\Users\Komp\Desktop\Кривий\Кривий\коди\Postman_Problem\Postman_Problem\bin\Debug\Postman_Problem.pdb
+C:\Users\Komp\Desktop\Кривий\Кривий\коди\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.csprojAssemblyReference.cache
+C:\Users\Komp\Desktop\Кривий\Кривий\коди\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Desktop\Кривий\Кривий\коди\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.exe
+C:\Users\Komp\Desktop\Кривий\Кривий\коди\Postman_Problem\Postman_Problem\obj\Debug\Postman_Problem.pdb
